@@ -1,0 +1,6 @@
+x = int(input("X:"))
+y = int(input("Y:"))
+z = int(input("Z:"))
+max_num = max(x,y,z)
+min_num = min(x,y,z)
+print(str(max_num) + "," + str(x + y + z - max_num - min_num))
