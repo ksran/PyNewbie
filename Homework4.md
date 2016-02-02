@@ -8,9 +8,11 @@ Build a function to judge a number is a prime number or not.
 The input may be several lines.
 ###样例输入：
 17
+
 26
 ###样例输出：
 Yes
+
 No
 
 ---
