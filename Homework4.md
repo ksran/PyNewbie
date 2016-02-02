@@ -4,6 +4,7 @@
 ##素数选举
 
 Build a function to judge a number is a prime number or not.
+
 The input may be several lines.
 ###样例输入：
 17
@@ -16,7 +17,9 @@ No
 
 ##素数筛子
 Print a list contains the prime number from 1 to 1000. The question is ,how can we work faster than call 1,000 times function in the last homework?
+
 [Wiki : sieve of Eratosthenes ](https://zh.wikipedia.org/wiki/%E5%9F%83%E6%8B%89%E6%89%98%E6%96%AF%E7%89%B9%E5%B0%BC%E7%AD%9B%E6%B3%95)
+
 (20 numbers per line)
 ###样例输出：
 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 
